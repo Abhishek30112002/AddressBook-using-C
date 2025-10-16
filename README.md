@@ -14,9 +14,9 @@ Compiler - gcc
 
 **Author** 
 
-_Abhishek Joy
+-Abhishek Joy
 
 **Acknowledgements**
 
-_Emertxe Information Technologies Pvt Ltd - for providing idea of this project
+-Emertxe Information Technologies Pvt Ltd - for providing idea of this project
 

@@ -18,7 +18,7 @@ Compiler - gcc
   <li>Abhishek Joy</li>
 </ul>
 
-**Acknowledgements**
+# Acknowledgements
 
 <ul>
   <li>Emertxe Information Technologies Pvt Ltd - for providing idea of this project</li>

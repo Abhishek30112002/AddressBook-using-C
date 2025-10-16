@@ -6,13 +6,13 @@ Copy the repository to a folder. Compile the project using gcc *.c and then you 
 The program will start and you can use the menu to create, search, edit, delete, list and save all contacts. You can enter the corresponding 
 number to choose from the menu . 
 
-**Prerequisites**
+# Prerequisites
 
 OS - Linux or Windows(using Linux subshell)
 
 Compiler - gcc
 
-**Author** 
+# Author 
 
 <ul>
   <li>Abhishek Joy</li>
@@ -20,5 +20,7 @@ Compiler - gcc
 
 **Acknowledgements**
 
-Emertxe Information Technologies Pvt Ltd - for providing idea of this project
+<ul>
+  <li>Emertxe Information Technologies Pvt Ltd - for providing idea of this project</li>
+</ul>
 
